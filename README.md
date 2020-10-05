@@ -3,5 +3,9 @@
 - 🌱 I’m currently learning blockchain (Hyperledger & Ethereum) & API Automation
 - 📫 visit me: manikandanramesh.com
 
+<a href="https://www.linkedin.com/in/manikandan-ramesh/" rel="nofollow noreferrer">
+    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
+  </a>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kuttyblacky&langs_count=8&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kuttyblacky&show_icons=true&theme=dracula) 
