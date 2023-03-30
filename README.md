@@ -9,10 +9,6 @@
   </a> &nbsp; 
   <a href="https://github.com/kuttyblacky" rel="nofollow noreferrer">
     <img src="https://i.stack.imgur.com/tskMh.png" alt="github"> 
-  </a>
-  <a href="https://manikandanramesh.com" rel="nofollow noreferrer">
-    Visit me
-  </a>
 </p>
 
 
