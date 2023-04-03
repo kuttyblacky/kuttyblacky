@@ -2,7 +2,6 @@
 - 👨🏻‍💻  I’m primarily a mobile application test engineer,SDET & bike rider
 - 🌱 I’m currently learning blockchain (Hyperledger & Ethereum) & API Automation
 - 📫 visit me: manikandanramesh.com <a href="https://www.manikandanramesh.com" rel="nofollow noreferrer">
-    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> 
   </a> &nbsp; 
 
      <p>
